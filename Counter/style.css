@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Lato&family=Libre+Franklin:wght@600&family=Merienda:wght@700&family=Oi&family=Ribeye+Marrow&family=Roboto&display=swap');
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Ribeye Marrow', cursive;
+
+}
+.box{
+    text-align: center;
+    background-color: black;
+    color:white;
+    padding: 30px 50px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+#count-el{
+    font-size: 70px;
+    
+}
+
+#increment-btn{
+   padding: 10px 20px; 
+   background-color: aqua;
+   border-radius: 5px;
+   color:white;
+   font-weight: 700;
+}
