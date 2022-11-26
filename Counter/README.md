@@ -1,4 +1,5 @@
 Screenshot:
 
-![1043](https://user-images.githubusercontent.com/95703908/204091778-bbb7fcf0-44dc-4c09-a37c-54d2074f7957.jpg)
+<img width="307" alt="counter" src="https://user-images.githubusercontent.com/95703908/204091812-2734d3b7-e2bb-49b5-bcc6-9c32038b77c5.png">
+
 
